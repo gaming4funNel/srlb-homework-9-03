@@ -9,15 +9,15 @@
 Выполняя ДЗ сверяйтесь с процессом отражённым в записи лекции.
 В веб-интерфейсе Zabbix Servera в разделе Templates создайте новый шаблон
 
-![Zabbix2](https://github.com/gaming4funNel/srlb-homework-9-03/blob/main/img/new_template.png)
+![Zabbix2](https://github.com/gaming4funNel/srlb-homework-9-03/blob/master/img/new_template.png)
 
 Создайте Item который будет собирать информацию об загрузке CPU в процентах
 
-![Zabbix2](https://github.com/gaming4funNel/srlb-homework-9-03/blob/main/img/cpu_item.png)
+![Zabbix2](https://github.com/gaming4funNel/srlb-homework-9-03/blob/master/img/cpu_item.png)
 
 Создайте Item который будет собирать информацию об загрузке RAM в процентах
 
-![Zabbix2](https://github.com/gaming4funNel/srlb-homework-9-03/blob/main/img/ram_item.png)
+![Zabbix2](https://github.com/gaming4funNel/srlb-homework-9-03/blob/master/img/ram_item.png)
 
 Требования к результату
  Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
@@ -54,7 +54,7 @@
 Требования к результату
  Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
  
-![Zabbix2](https://github.com/gaming4funNel/srlb-homework-9-03/blob/main/img/hosts_with_templates.png)
+![Zabbix2](https://github.com/gaming4funNel/srlb-homework-9-03/blob/master/img/hosts_with_templates.png)
 
 ### Задание 4
 
@@ -67,7 +67,7 @@
 Требования к результату
  Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
  
-![Zabbix2](https://github.com/gaming4funNel/srlb-homework-9-03/blob/main/img/dashboard.png) 
+![Zabbix2](https://github.com/gaming4funNel/srlb-homework-9-03/blob/master/img/dashboard.png) 
 ## Дополнительные задания (со звездочкой*)
 
 ### Задание 5*
