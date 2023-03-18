@@ -9,7 +9,7 @@
 Выполняя ДЗ сверяйтесь с процессом отражённым в записи лекции.
 В веб-интерфейсе Zabbix Servera в разделе Templates создайте новый шаблон
 
-![Zabbix2](https://github.com/gaming4funNel/srlb-homework-9-03/blob/main/img/new_template.png)
+![Zabbix2](https://github.com/gaming4funNel/srlb-homework-9-03/blob/master/img/new_template.png)
 
 Создайте Item который будет собирать информацию об загрузке CPU в процентах
 
